@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 
 const PostSchema = new Schema({
   group: String,
-  writer: String,
+  writer_identity: String,
   identity: String,
   date: String,
   title: String,
