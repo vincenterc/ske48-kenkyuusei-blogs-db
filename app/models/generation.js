@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
 const GenerationSchema = new Schema({
-  name: { type: String, required: true, max: 8 },
+  name: String,
 })
 
 module.exports = mongoose.model('Generation', GenerationSchema)
