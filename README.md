@@ -1,0 +1,1 @@
+# ske48-kenkyuusei-blogs-db
