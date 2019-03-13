@@ -6,7 +6,7 @@ const {
   readGenerationDetailList,
 } = require('./controllers/generation-controller')
 
-const fileName = 'members.json'
+const fileName = 'generations.json'
 
 const main = async () => {
   mongoose.connect(dbPath, { useNewUrlParser: true })
