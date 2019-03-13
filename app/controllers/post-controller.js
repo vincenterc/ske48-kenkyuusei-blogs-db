@@ -3,7 +3,7 @@ const Member = require('../models/member')
 
 const createPost = async post => {
   let postFound = await Post.find({ identity: post.identity }).exec()
-  let memberFound = await Member.find({ identity: post.writerIdentity }).exec()
+  let memberFound = await Member.find({ identity: post.writer_identity }).exec()
 
   if (postFound.length === 0) {
     if (memberFound.length !== 0) {

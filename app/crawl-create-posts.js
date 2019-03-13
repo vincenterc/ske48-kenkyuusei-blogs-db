@@ -75,7 +75,7 @@ const getPostsInAGroup = async group => {
     let writer = getWriter(members, post)
     posts.push({
       group: group.identity,
-      writerIdentity: writer.identity,
+      writer_identity: writer.identity,
       identity: postId,
       title: post.title,
       date: post.date,
