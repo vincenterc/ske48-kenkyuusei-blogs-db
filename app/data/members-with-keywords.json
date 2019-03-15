@@ -100,25 +100,30 @@
       "identity": "tanabe_mizuki",
       "name": "田辺美月",
       "generation": 9,
-      "keywords": ["田辺美月", "田辺"]
+      "keywords": ["田辺美月です"]
     },
     {
       "identity": "nakasaka_miyu",
       "name": "中坂美祐",
       "generation": 9,
-      "keywords": ["中坂美祐", "なかちゃん", "ぶーろぐ"]
+      "keywords": ["ぶーろぐ"]
     },
     {
       "identity": "hirano_momona",
       "name": "平野百菜",
       "generation": 9,
-      "keywords": ["平野百菜", "ももたん", "ももの", "もりもり", "モリモリ"]
+      "keywords": [
+        "もものもりもり日記",
+        "もものモリモリ日記",
+        "ももたんです",
+        "ももたんブログ"
+      ]
     },
     {
       "identity": "fujimoto_fuyuka",
       "name": "藤本冬香",
       "generation": 9,
-      "keywords": ["藤本冬香"]
+      "keywords": ["藤本冬香です"]
     }
   ]
 }
