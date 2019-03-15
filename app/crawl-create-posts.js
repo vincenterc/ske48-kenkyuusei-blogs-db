@@ -3,7 +3,7 @@ const cheerio = require('cheerio')
 const mongoose = require('mongoose')
 
 const { createPost } = require('./controllers/post-controller')
-const members = require('./data/members.json')
+const membersWithKeywords = require('./data/members-with-keywords.json')
 const { dbPath } = require('./constants')
 
 const groupArray = ['ken91', 'ken92', 'ken93', 'ken94']
@@ -35,7 +35,7 @@ const getPost = body => {
 
 const getWriter = (members, post) => {
   const memberMatched = (members, text) =>
-    members.find(m => RegExp(m.keyWords.join('|')).test(text))
+    members.find(m => RegExp(m.keywords.join('|')).test(text))
 
   //memberMatched(members, post.content) ||
   return (
@@ -65,14 +65,14 @@ const getInitialPostIds = groupUrls => {
   return Promise.all(promises).then(values => values)
 }
 
-const getPostsInAGroup = async group => {
+const getPostsInOneGroup = async group => {
   let posts = []
   let postId = group.initialPostId
 
   while (postId) {
     body = await fetch(postUrl(postId)).then(res => res.text())
     let post = getPost(body)
-    let writer = getWriter(members, post)
+    let writer = getWriter(membersWithKeywords[group.identity], post)
     posts.push({
       group: group.identity,
       writer_identity: writer.identity,
@@ -88,7 +88,7 @@ const getPostsInAGroup = async group => {
 }
 
 const getPosts = groups => {
-  let promises = groups.map(g => getPostsInAGroup(g))
+  let promises = groups.map(g => getPostsInOneGroup(g))
   return Promise.all(promises).then(values =>
     values.reduce((acc, v) => [...acc, ...v], [])
   )
