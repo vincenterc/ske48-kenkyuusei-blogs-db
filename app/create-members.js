@@ -7,13 +7,17 @@ const members = require('./data/members.json')
 mongoose.connect(dbPath, { useNewUrlParser: true })
 
 const main = async () => {
-  let membersReturned = await members.reduce(
+  let memberList = [
+    { identity: 'other', name: 'other', generation: '0' },
+    ...members,
+  ]
+  let membersReturned = await memberList.reduce(
     async (acc, m) => [...(await acc), await createMember(m)],
     Promise.resolve([])
   )
 
   console.log(membersReturned)
-  
+
   mongoose.connection.close()
 }
 
