@@ -14,7 +14,7 @@ const createGeneration = async generation => {
   }
 }
 
-const readGenerationDetailList = async () => {
+const getGenerationDetailList = async () => {
   return await Generation.find({}, '-_id -__v').populate({
     path: 'members',
     select: '-_id -__v',
@@ -22,4 +22,4 @@ const readGenerationDetailList = async () => {
   })
 }
 
-module.exports = { createGeneration, readGenerationDetailList }
+module.exports = { createGeneration, getGenerationDetailList }
