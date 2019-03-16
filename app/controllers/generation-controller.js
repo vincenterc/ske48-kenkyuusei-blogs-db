@@ -14,12 +14,14 @@ const createGeneration = async generation => {
   }
 }
 
-const getGenerationDetailList = async () => {
-  return await Generation.find({}, '-_id -__v').populate({
-    path: 'members',
-    select: '-_id -__v',
-    populate: { path: 'posts', select: '-_id -__v -group' },
-  })
+const getGenerationDetailList = () => {
+  return Generation.find({}, '-_id -__v')
+    .populate({
+      path: 'members',
+      select: '-_id -__v',
+      populate: { path: 'posts', select: '-_id -__v -group' },
+    })
+    .exec()
 }
 
 module.exports = { createGeneration, getGenerationDetailList }
