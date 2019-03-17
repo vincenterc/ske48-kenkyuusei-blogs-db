@@ -7,7 +7,7 @@ const {
   getPostsInGroupsFromWeb,
   getInitialPostIdsFromGroupPages,
 } = require('./helpers/post-helper')
-const { createPost } = require('../controllers/post-controller')
+const { createPost } = require('./controllers/post-controller')
 
 const groupArray = ['ken91', 'ken92', 'ken93', 'ken94']
 
