@@ -1,4 +1,40 @@
 {
+  "draft3": [
+    {
+      "identity": "otani_yuki",
+      "name": "大谷悠妃",
+      "generation": "d3",
+      "keywords": ["ゆうゆブログ"]
+    },
+    {
+      "identity": "kozuma_honoka",
+      "name": "上妻ほの香",
+      "generation": "d3",
+      "keywords": ["いらーっしゃい"]
+    },
+    {
+      "identity": "nakano_airi",
+      "name": "中野愛理",
+      "generation": "d3",
+      "keywords": ["なかのあいりです"]
+    },
+    {
+      "identity": "nishi_marina",
+      "name": "西満里奈",
+      "generation": "d3",
+      "keywords": [
+        "ニ シ マ リ ナ ブ ロ グ",
+        "ニ シ マ リ ナ",
+        "ニ シ マ リ ナ フ ゛ロ グ"
+      ]
+    },
+    {
+      "identity": "hirata_shiina",
+      "name": "平田詩奈",
+      "generation": "d3",
+      "keywords": ["しぃちゃんBlog", "しぃちゃん Blog"]
+    }
+  ],
   "ken91": [
     {
       "identity": "aoumi_hinano",
@@ -28,7 +64,11 @@
       "identity": "ishikawa_kanon",
       "name": "石川花音",
       "generation": 9,
-      "keywords": ["石川花音です", "きゃのんてぃのブログ", "きゃのんてぃのTEA ROOM"]
+      "keywords": [
+        "石川花音です",
+        "きゃのんてぃのブログ",
+        "きゃのんてぃのTEA ROOM"
+      ]
     }
   ],
   "ken92": [
