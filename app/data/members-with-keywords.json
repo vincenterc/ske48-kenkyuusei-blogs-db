@@ -1,4 +1,124 @@
 {
+  "ken01": [
+    {
+      "identity": "atsumi_ayaha",
+      "name": "渥美彩羽",
+      "generation": 8,
+      "keywords": ["あや"]
+    },
+    {
+      "identity": "ishikawa_saki",
+      "name": "石川咲姫",
+      "generation": 8,
+      "keywords": ["さきりんスマイルブログ"]
+    },
+    {
+      "identity": "ishiguro_yuzuki",
+      "name": "石黒友月",
+      "generation": 8,
+      "keywords": ["ゆづき"]
+    },
+    {
+      "identity": "oshiba_rinka",
+      "name": "大芝りんか",
+      "generation": 8,
+      "keywords": ["りんかちゃんですよ"]
+    },
+    {
+      "identity": "okada_miku",
+      "name": "岡田美紅",
+      "generation": 8,
+      "keywords": ["みぃぽぽBlog"]
+    },
+    {
+      "identity": "kurashima_ami",
+      "name": "倉島杏実",
+      "generation": 8,
+      "keywords": ["あみちゃん"]
+    }
+  ],
+  "ken02": [
+    {
+      "identity": "kurashima_ami",
+      "name": "倉島杏実",
+      "generation": 8,
+      "keywords": ["あみちゃん"]
+    },
+    {
+      "identity": "sakamoto_marin",
+      "name": "坂本真凛",
+      "generation": 8,
+      "keywords": ["まりんぶろぐ"]
+    },
+    {
+      "identity": "shirayuki_kohaku",
+      "name": "白雪希明",
+      "generation": 8,
+      "keywords": ["こはちゃん日記"]
+    },
+    {
+      "identity": "nakamura_izumi",
+      "name": "仲村和泉",
+      "generation": 8,
+      "keywords": ["いずりんさんだよ"]
+    },
+    {
+      "identity": "nonogaki_miki",
+      "name": "野々垣美希",
+      "generation": 8,
+      "keywords": ["ののがきみきですわ"]
+    },
+    {
+      "identity": "fukai_negai",
+      "name": "深井ねがい",
+      "generation": 8,
+      "keywords": ["ねがいブログです", "ねがいぶろぐです"]
+    },
+    {
+      "identity": "morihira_riko",
+      "name": "森平莉子",
+      "generation": 8,
+      "keywords": ["りこりん"]
+    },
+    {
+      "identity": "wada_aina",
+      "name": "和田愛菜",
+      "generation": 7,
+      "keywords": ["あいな"]
+    }
+  ],
+  "ken001": [
+    {
+      "identity": "atsumi_ayaha",
+      "name": "渥美彩羽",
+      "generation": 8,
+      "keywords": ["あや"]
+    },
+    {
+      "identity": "ishikawa_saki",
+      "name": "石川咲姫",
+      "generation": 8,
+      "keywords": ["さきりんスマイルブログ"]
+    },
+    {
+      "identity": "ishiguro_yuzuki",
+      "name": "石黒友月",
+      "generation": 8,
+      "keywords": ["ゆづき"]
+    },
+    {
+      "identity": "fukai_negai",
+      "name": "深井ねがい",
+      "generation": 8,
+      "keywords": ["ねがいブログです", "ねがいぶろぐです"]
+    },
+    {
+      "identity": "morihira_riko",
+      "name": "森平莉子",
+      "generation": 8,
+      "keywords": ["りこりん", "100りこ"]
+    }
+  ],
   "draft3": [
     {
       "identity": "otani_yuki",
