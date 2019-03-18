@@ -3,8 +3,6 @@ const mongoose = require('mongoose')
 const { dbPath } = require('./constants')
 const { createGeneration } = require('./controllers/generation-controller')
 
-mongoose.connect(dbPath, { useNewUrlParser: true })
-
 const generations = [
   { identity: '7', title: '7th' },
   { identity: '8', title: '8th' },
@@ -13,11 +11,16 @@ const generations = [
 ]
 
 const main = async () => {
-  let promises = generations.map(g => createGeneration(g))
+  mongoose.connect(dbPath, { useNewUrlParser: true })
 
-  Promise.all(promises)
-    .then(values => console.log(values))
-    .then(() => mongoose.connection.close())
+  let generationsReturned = await generations.reduce(
+    async (gs, g) => [...(await gs), await createGeneration(g)],
+    Promise.resolve([])
+  )
+
+  console.log(generationsReturned)
+
+  mongoose.connection.close()
 }
 
 main()
