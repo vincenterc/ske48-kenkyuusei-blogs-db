@@ -104,6 +104,44 @@
       "keywords": ["和田愛菜です"]
     }
   ],
+  "kenkyuuseid2": [
+    {
+      "identity": "isshiki_rena",
+      "name": "一色嶺奈",
+      "generation": 7,
+      "keywords": [
+        "一色嶺奈の応援",
+        "一色嶺奈です",
+        "一色嶺奈で〜す",
+        "一色 嶺奈です",
+        "嶺奈のブログ"
+      ]
+    },
+    {
+      "identity": "kamimura_ayuka",
+      "name": "上村亜柚香",
+      "generation": 7,
+      "keywords": ["上村物語"]
+    },
+    {
+      "identity": "shirai_kotono",
+      "name": "白井琴望",
+      "generation": 7,
+      "keywords": ["こっちゃんダイアリ"]
+    },
+    {
+      "identity": "sugawara_maya",
+      "name": "菅原茉椰",
+      "generation": 7,
+      "keywords": ["菅原のブログ", "菅原のブロック"]
+    },
+    {
+      "identity": "mizuno_airi",
+      "name": "水野愛理",
+      "generation": 7,
+      "keywords": ["水野愛理です", "明日は", "神門沙樹さん", "あくし"]
+    }
+  ],
   "ken81": [
     {
       "identity": "atsumi_ayaha",
