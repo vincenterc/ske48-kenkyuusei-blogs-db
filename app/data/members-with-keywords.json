@@ -1,4 +1,45 @@
 {
+  "kenkyuusei7_1": [
+    {
+      "identity": "aikawa_honoka",
+      "name": "相川暖花",
+      "generation": 7,
+      "keywords": [
+        "あいかわほのか",
+        "ほのののブログ",
+        "ほのののぶろぐ",
+        "ほののののふろぐ"
+      ]
+    },
+    {
+      "identity": "asai_yuka",
+      "name": "浅井裕華",
+      "generation": 7,
+      "keywords": [
+        "浅井裕華でーす",
+        "浅井裕華です",
+        "ゆうかたんこと浅井裕華でした"
+      ]
+    },
+    {
+      "identity": "ota_ayaka",
+      "name": "太田彩夏",
+      "generation": 7,
+      "keywords": ["太田彩夏です", "あやめろディ"]
+    },
+    {
+      "identity": "obata_yuna",
+      "name": "小畑優奈",
+      "generation": 7,
+      "keywords": ["小畑優奈です"]
+    },
+    {
+      "identity": "kataoka_narumi",
+      "name": "片岡成美",
+      "generation": 7,
+      "keywords": ["片岡なるちゃんの毎日", "なるちゃんの毎日"]
+    }
+  ],
   "ken81": [
     {
       "identity": "atsumi_ayaha",
