@@ -40,6 +40,44 @@
       "keywords": ["片岡なるちゃんの毎日", "なるちゃんの毎日"]
     }
   ],
+  "kenkyuusei7_2": [
+    {
+      "identity": "kawasaki_narumi",
+      "name": "川崎成美",
+      "generation": 7,
+      "keywords": ["川崎成美です"]
+    },
+    {
+      "identity": "goto_rara",
+      "name": "後藤楽々",
+      "generation": 7,
+      "keywords": [
+        "後藤楽々です",
+        "La",
+        "楽々が中々会",
+        "楽々の宝物",
+        "楽々の嬉しかった事"
+      ]
+    },
+    {
+      "identity": "suenaga_oka",
+      "name": "末永桜花",
+      "generation": 7,
+      "keywords": ["末永桜花です"]
+    },
+    {
+      "identity": "sugiyama_aika",
+      "name": "杉山愛佳",
+      "generation": 7,
+      "keywords": ["あいあい日記"]
+    },
+    {
+      "identity": "takahata_yuki",
+      "name": "髙畑結希",
+      "generation": 7,
+      "keywords": ["高畑結希です"]
+    }
+  ],
   "ken81": [
     {
       "identity": "atsumi_ayaha",
