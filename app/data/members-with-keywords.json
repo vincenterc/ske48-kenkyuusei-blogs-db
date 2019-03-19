@@ -78,6 +78,32 @@
       "keywords": ["高畑結希です"]
     }
   ],
+  "kenkyuusei7_3": [
+    {
+      "identity": "nojima_kano",
+      "name": "野島樺乃",
+      "generation": 7,
+      "keywords": ["野島樺乃です", "野島かのです", "のんた"]
+    },
+    {
+      "identity": "machi_otoha",
+      "name": "町音葉",
+      "generation": 7,
+      "keywords": ["青葉に若葉"]
+    },
+    {
+      "identity": "murai_junna",
+      "name": "村井純奈",
+      "generation": 7,
+      "keywords": ["村井純奈です"]
+    },
+    {
+      "identity": "wada_aina",
+      "name": "和田愛菜",
+      "generation": 7,
+      "keywords": ["和田愛菜です"]
+    }
+  ],
   "ken81": [
     {
       "identity": "atsumi_ayaha",
