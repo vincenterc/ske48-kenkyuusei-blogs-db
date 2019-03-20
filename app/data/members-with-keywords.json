@@ -108,7 +108,7 @@
     {
       "identity": "isshiki_rena",
       "name": "一色嶺奈",
-      "generation": 7,
+      "generation": "d2",
       "keywords": [
         "一色嶺奈の応援",
         "一色嶺奈です",
@@ -120,25 +120,25 @@
     {
       "identity": "kamimura_ayuka",
       "name": "上村亜柚香",
-      "generation": 7,
+      "generation": "d2",
       "keywords": ["上村物語"]
     },
     {
       "identity": "shirai_kotono",
       "name": "白井琴望",
-      "generation": 7,
+      "generation": "d2",
       "keywords": ["こっちゃんダイアリ"]
     },
     {
       "identity": "sugawara_maya",
       "name": "菅原茉椰",
-      "generation": 7,
+      "generation": "d2",
       "keywords": ["菅原のブログ", "菅原のブロック"]
     },
     {
       "identity": "mizuno_airi",
       "name": "水野愛理",
-      "generation": 7,
+      "generation": "d2",
       "keywords": ["水野愛理です", "あくし", "神門沙樹さん", "ばいはぁーい"]
     }
   ],
@@ -215,7 +215,7 @@
     {
       "identity": "isshiki_rena",
       "name": "一色嶺奈",
-      "generation": 7,
+      "generation": "d2",
       "keywords": [
         "一色嶺奈の応援",
         "一色嶺奈です",
@@ -227,13 +227,13 @@
     {
       "identity": "kamimura_ayuka",
       "name": "上村亜柚香",
-      "generation": 7,
+      "generation": "d2",
       "keywords": ["上村物語"]
     },
     {
       "identity": "mizuno_airi",
       "name": "水野愛理",
-      "generation": 7,
+      "generation": "d2",
       "keywords": [
         "水野愛理です",
         "バイハァーイ",
@@ -241,6 +241,37 @@
         "ばいはぁーい",
         "愛理はお姉ちゃん"
       ]
+    }
+  ],
+  "ken7": [
+    {
+      "identity": "aikawa_honoka",
+      "name": "相川暖花",
+      "generation": 7,
+      "keywords": [
+        "あいかわほのか",
+        "ほのののブログ",
+        "ほのののぶろぐ",
+        "ほののののふろぐ"
+      ]
+    },
+    {
+      "identity": "kataoka_narumi",
+      "name": "片岡成美",
+      "generation": 7,
+      "keywords": ["片岡なるちゃんの毎日", "なるちゃんの毎日"]
+    },
+    {
+      "identity": "kawasaki_narumi",
+      "name": "川崎成美",
+      "generation": 7,
+      "keywords": ["川崎成美です", "川崎成美だけです"]
+    },
+    {
+      "identity": "wada_aina",
+      "name": "和田愛菜",
+      "generation": 7,
+      "keywords": ["和田愛菜です"]
     }
   ],
   "ken81": [
