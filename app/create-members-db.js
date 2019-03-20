@@ -17,7 +17,7 @@ const main = async () => {
     Promise.resolve([])
   )
 
-  console.log(membersReturned)
+  console.log(membersReturned.length)
 
   mongoose.connection.close()
 }
