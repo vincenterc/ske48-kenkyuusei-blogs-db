@@ -5,6 +5,7 @@ const { createGeneration } = require('./controllers/generation-controller')
 
 const generations = [
   { identity: '7', title: '7th' },
+  { identity: 'd2', title: 'draft 2nd' },
   { identity: '8', title: '8th' },
   { identity: 'd3', title: 'draft 3th' },
   { identity: '9', title: '9th' },
