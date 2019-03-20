@@ -139,7 +139,108 @@
       "identity": "mizuno_airi",
       "name": "水野愛理",
       "generation": 7,
-      "keywords": ["水野愛理です", "明日は", "神門沙樹さん", "あくし"]
+      "keywords": ["水野愛理です", "あくし", "神門沙樹さん", "ばいはぁーい"]
+    }
+  ],
+  "kenkyuuseiall": [
+    {
+      "identity": "aikawa_honoka",
+      "name": "相川暖花",
+      "generation": 7,
+      "keywords": [
+        "あいかわほのか",
+        "ほのののブログ",
+        "ほのののぶろぐ",
+        "ほののののふろぐ"
+      ]
+    },
+    {
+      "identity": "asai_yuka",
+      "name": "浅井裕華",
+      "generation": 7,
+      "keywords": [
+        "浅井裕華でーす",
+        "浅井裕華です",
+        "ゆうかたんこと浅井裕華でした"
+      ]
+    },
+    {
+      "identity": "ota_ayaka",
+      "name": "太田彩夏",
+      "generation": 7,
+      "keywords": ["太田彩夏です", "あやめろディ"]
+    },
+    {
+      "identity": "kataoka_narumi",
+      "name": "片岡成美",
+      "generation": 7,
+      "keywords": ["片岡なるちゃんの毎日", "なるちゃんの毎日"]
+    },
+    {
+      "identity": "kawasaki_narumi",
+      "name": "川崎成美",
+      "generation": 7,
+      "keywords": ["川崎成美です", "川崎成美だけです"]
+    },
+    {
+      "identity": "suenaga_oka",
+      "name": "末永桜花",
+      "generation": 7,
+      "keywords": ["末永桜花です", "おーちゃんブログ"]
+    },
+    {
+      "identity": "takahata_yuki",
+      "name": "髙畑結希",
+      "generation": 7,
+      "keywords": ["高畑結希です"]
+    },
+    {
+      "identity": "machi_otoha",
+      "name": "町音葉",
+      "generation": 7,
+      "keywords": ["青葉に若葉"]
+    },
+    {
+      "identity": "murai_junna",
+      "name": "村井純奈",
+      "generation": 7,
+      "keywords": ["村井純奈です"]
+    },
+    {
+      "identity": "wada_aina",
+      "name": "和田愛菜",
+      "generation": 7,
+      "keywords": ["和田愛菜です"]
+    },
+    {
+      "identity": "isshiki_rena",
+      "name": "一色嶺奈",
+      "generation": 7,
+      "keywords": [
+        "一色嶺奈の応援",
+        "一色嶺奈です",
+        "一色嶺奈で〜す",
+        "一色 嶺奈です",
+        "嶺奈のブログ"
+      ]
+    },
+    {
+      "identity": "kamimura_ayuka",
+      "name": "上村亜柚香",
+      "generation": 7,
+      "keywords": ["上村物語"]
+    },
+    {
+      "identity": "mizuno_airi",
+      "name": "水野愛理",
+      "generation": 7,
+      "keywords": [
+        "水野愛理です",
+        "バイハァーイ",
+        "ばいはーい",
+        "ばいはぁーい",
+        "愛理はお姉ちゃん"
+      ]
     }
   ],
   "ken81": [
