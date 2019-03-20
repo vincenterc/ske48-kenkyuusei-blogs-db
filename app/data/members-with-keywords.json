@@ -285,7 +285,7 @@
       "identity": "ishikawa_saki",
       "name": "石川咲姫",
       "generation": 8,
-      "keywords": ["さきりんスマイルブログ", "石川咲姫です"]
+      "keywords": ["石川咲姫です"]
     },
     {
       "identity": "ishiguro_yuzuki",
@@ -297,7 +297,7 @@
       "identity": "inoue_ruka",
       "name": "井上瑠夏",
       "generation": 8,
-      "keywords": ["るかのブログ", "るか、初めてブログる"]
+      "keywords": ["いのうえ　るか", "るかのブログ"]
     },
     {
       "identity": "oshiba_rinka",
@@ -318,24 +318,24 @@
       "name": "北川愛乃",
       "generation": 8,
       "keywords": [
-        "北川愛乃と",
+        "よこにゃん こと",
+        "よこにゃんこと",
         "よこにゃんの",
-        "のよこにゃん",
-        "よこにゃんbBlog",
-        "よこにゃんBlog"
+        "よこにゃんBlog",
+        "よこにゃんブログ"
       ]
     },
     {
       "identity": "kawai_anna",
       "name": "川合杏奈",
       "generation": 8,
-      "keywords": ["川合杏奈（あんたん）です", "☆杏奈", "杏奈☆", "あんたん☆"]
+      "keywords": ["川合杏奈です", "杏奈☆", "あんたん☆"]
     },
     {
       "identity": "kurashima_ami",
       "name": "倉島杏実",
       "generation": 8,
-      "keywords": ["あみちゃん♪", "倉島杏実です"]
+      "keywords": ["あみちゃん♪"]
     },
     {
       "identity": "sakamoto_marin",
@@ -385,32 +385,25 @@
       "identity": "nonogaki_miki",
       "name": "野々垣美希",
       "generation": 8,
-      "keywords": ["ののがきみきですわ", "ののがきみき♪", "ののがき みき"]
+      "keywords": ["ののがき みき", "ののがきみきですわ", "野々垣美希ですわ"]
     },
     {
       "identity": "nomura_miyo",
       "name": "野村実代",
       "generation": 8,
-      "keywords": ["みよまるの", "みよまる参上"]
+      "keywords": ["みよまる参上", "みよまるの"]
     },
     {
       "identity": "morihira_riko",
       "name": "森平莉子",
       "generation": 8,
-      "keywords": ["ノりこりん", "森平莉子です", "りこりんこと森平莉子"]
+      "keywords": ["森平莉子です", "ノりこりん"]
     },
     {
       "identity": "fukai_negai",
       "name": "深井ねがい",
       "generation": 8,
-      "keywords": [
-        "深井ねがいです",
-        "ねがいの",
-        "ねがいでーす",
-        "ねがいです",
-        "ねがいぶろぐです",
-        "ねがいブログ"
-      ]
+      "keywords": ["ねがいです", "ねがいでーす", "ねがいのメール"]
     }
   ],
   "ken01": [
@@ -424,7 +417,7 @@
       "identity": "ishikawa_saki",
       "name": "石川咲姫",
       "generation": 8,
-      "keywords": ["さきりんスマイルブログ", "石川咲姫です"]
+      "keywords": ["石川咲姫です"]
     },
     {
       "identity": "ishiguro_yuzuki",
@@ -480,32 +473,25 @@
       "identity": "nonogaki_miki",
       "name": "野々垣美希",
       "generation": 8,
-      "keywords": ["ののがきみきですわ", "ののがきみき♪", "ののがき みき"]
-    },
-    {
-      "identity": "fukai_negai",
-      "name": "深井ねがい",
-      "generation": 8,
-      "keywords": [
-        "深井ねがいです",
-        "ねがいの",
-        "ねがいでーす",
-        "ねがいです",
-        "ねがいぶろぐです",
-        "ねがいブログ"
-      ]
+      "keywords": ["ののがき みき", "ののがきみきですわ"]
     },
     {
       "identity": "morihira_riko",
       "name": "森平莉子",
       "generation": 8,
-      "keywords": ["ノりこりん", "森平莉子です", "りこりんこと森平莉子"]
+      "keywords": ["森平莉子です", "ノりこりん"]
+    },
+    {
+      "identity": "fukai_negai",
+      "name": "深井ねがい",
+      "generation": 8,
+      "keywords": ["ねがいです", "ねがいでーす", "ねがいのメール"]
     },
     {
       "identity": "wada_aina",
       "name": "和田愛菜",
       "generation": 7,
-      "keywords": ["あいな"]
+      "keywords": ["和田愛菜です"]
     }
   ],
   "ken001": [
@@ -519,7 +505,7 @@
       "identity": "ishikawa_saki",
       "name": "石川咲姫",
       "generation": 8,
-      "keywords": ["さきりんスマイルブログ", "石川咲姫です"]
+      "keywords": ["石川咲姫です"]
     },
     {
       "identity": "ishiguro_yuzuki",
@@ -528,23 +514,21 @@
       "keywords": ["ゆづき☆彡"]
     },
     {
+      "identity": "morihira_riko",
+      "name": "森平莉子",
+      "generation": 8,
+      "keywords": ["森平莉子です", "ノりこりん", "りこりんこと森平莉子"]
+    },
+    {
       "identity": "fukai_negai",
       "name": "深井ねがい",
       "generation": 8,
       "keywords": [
-        "深井ねがいです",
-        "ねがいの",
-        "ねがいでーす",
         "ねがいです",
-        "ねがいぶろぐです",
-        "ねがいブログ"
+        "ねがいでーす",
+        "ねがいのメール",
+        "ねがいブログです"
       ]
-    },
-    {
-      "identity": "morihira_riko",
-      "name": "森平莉子",
-      "generation": 8,
-      "keywords": ["ノりこりん", "森平莉子です", "りこりんこと森平莉子"]
     }
   ],
   "draft3": [
