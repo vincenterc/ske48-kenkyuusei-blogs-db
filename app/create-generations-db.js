@@ -4,6 +4,7 @@ const { dbPath } = require('./constants')
 const { createGeneration } = require('./controllers/generation-controller')
 
 const generations = [
+  { identity: '0', title: 'other'},
   { identity: '7', title: '7th' },
   { identity: 'd2', title: 'draft 2nd' },
   { identity: '8', title: '8th' },
