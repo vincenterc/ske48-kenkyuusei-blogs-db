@@ -9,7 +9,25 @@ const {
 } = require('./helpers/post-helper')
 const { createPost } = require('./controllers/post-controller')
 
-const groupArray = ['ken91', 'ken92', 'ken93', 'ken94']
+const groupArray = [
+  'kenkyuusei7_1',
+  'kenkyuusei7_2',
+  'kenkyuusei7_3',
+  'kenkyuuseid2',
+  'kenkyuuseiall',
+  'ken7',
+  'ken81',
+  'ken82',
+  'ken83',
+  'ken01',
+  'ken02',
+  'ken001',
+  'draft3',
+  'ken91',
+  'ken92',
+  'ken93',
+  'ken94',
+]
 
 const main = async () => {
   mongoose.connect(dbPath, { useNewUrlParser: true })
