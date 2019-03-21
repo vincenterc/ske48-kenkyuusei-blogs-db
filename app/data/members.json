@@ -1,5 +1,190 @@
 [
   {
+    "identity": "aikawa_honoka",
+    "name": "相川暖花",
+    "generation": 7
+  },
+  {
+    "identity": "asai_yuka",
+    "name": "浅井裕華",
+    "generation": 7
+  },
+  {
+    "identity": "ota_ayaka",
+    "name": "太田彩夏",
+    "generation": 7
+  },
+  {
+    "identity": "obata_yuna",
+    "name": "小畑優奈",
+    "generation": 7
+  },
+  {
+    "identity": "kataoka_narumi",
+    "name": "片岡成美",
+    "generation": 7
+  },
+  {
+    "identity": "kawasaki_narumi",
+    "name": "川崎成美",
+    "generation": 7
+  },
+  {
+    "identity": "goto_rara",
+    "name": "後藤楽々",
+    "generation": 7
+  },
+  {
+    "identity": "suenaga_oka",
+    "name": "末永桜花",
+    "generation": 7
+  },
+  {
+    "identity": "sugiyama_aika",
+    "name": "杉山愛佳",
+    "generation": 7
+  },
+  {
+    "identity": "takahata_yuki",
+    "name": "髙畑結希",
+    "generation": 7
+  },
+  {
+    "identity": "nojima_kano",
+    "name": "野島樺乃",
+    "generation": 7
+  },
+  {
+    "identity": "machi_otoha",
+    "name": "町音葉",
+    "generation": 7
+  },
+  {
+    "identity": "murai_junna",
+    "name": "村井純奈",
+    "generation": 7
+  },
+  {
+    "identity": "wada_aina",
+    "name": "和田愛菜",
+    "generation": 7
+  },
+  {
+    "identity": "isshiki_rena",
+    "name": "一色嶺奈",
+    "generation": "d2"
+  },
+  {
+    "identity": "kamimura_ayuka",
+    "name": "上村亜柚香",
+    "generation": "d2"
+  },
+  {
+    "identity": "shirai_kotono",
+    "name": "白井琴望",
+    "generation": "d2"
+  },
+  {
+    "identity": "sugawara_maya",
+    "name": "菅原茉椰",
+    "generation": "d2"
+  },
+  {
+    "identity": "mizuno_airi",
+    "name": "水野愛理",
+    "generation": "d2"
+  },
+  {
+    "identity": "atsumi_ayaha",
+    "name": "渥美彩羽",
+    "generation": 8
+  },
+  {
+    "identity": "ishikawa_saki",
+    "name": "石川咲姫",
+    "generation": 8
+  },
+  {
+    "identity": "ishiguro_yuzuki",
+    "name": "石黒友月",
+    "generation": 8
+  },
+  {
+    "identity": "inoue_ruka",
+    "name": "井上瑠夏",
+    "generation": 8
+  },
+  {
+    "identity": "oshiba_rinka",
+    "name": "大芝りんか",
+    "generation": 8
+  },
+  {
+    "identity": "okada_miku",
+    "name": "岡田美紅",
+    "generation": 8
+  },
+  {
+    "identity": "kitagawa_yoshino",
+    "name": "北川愛乃",
+    "generation": 8
+  },
+  {
+    "identity": "kawai_anna",
+    "name": "川合杏奈",
+    "generation": 8
+  },
+  {
+    "identity": "kurashima_ami",
+    "name": "倉島杏実",
+    "generation": 8
+  },
+  {
+    "identity": "sakamoto_marin",
+    "name": "坂本真凛",
+    "generation": 8
+  },
+  {
+    "identity": "sato_kaho",
+    "name": "佐藤佳穂",
+    "generation": 8
+  },
+  {
+    "identity": "shirayuki_kohaku",
+    "name": "白雪希明",
+    "generation": 8
+  },
+  {
+    "identity": "yahagi_yukina",
+    "name": "矢作有紀奈",
+    "generation": 8
+  },
+  {
+    "identity": "nakamura_izumi",
+    "name": "仲村和泉",
+    "generation": 8
+  },
+  {
+    "identity": "nonogaki_miki",
+    "name": "野々垣美希",
+    "generation": 8
+  },
+  {
+    "identity": "nomura_miyo",
+    "name": "野村実代",
+    "generation": 8
+  },
+  {
+    "identity": "morihira_riko",
+    "name": "森平莉子",
+    "generation": 8
+  },
+  {
+    "identity": "fukai_negai",
+    "name": "深井ねがい",
+    "generation": 8
+  },
+  {
     "identity": "otani_yuki",
     "name": "大谷悠妃",
     "generation": "d3"
