@@ -12,6 +12,7 @@ const main = async () => {
   mongoose.connect(dbPath, { useNewUrlParser: true })
 
   let generations = await getGenerationDetailList()
+  // generations = generations.filter(g => g.identity !== '0')
   let generationsFiltered = generations.filter(g => g.members.length !== 0)
 
   fs.writeFileSync(fileName, JSON.stringify(generationsFiltered, null, 2))
